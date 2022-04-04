@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @amandakartikasari
-- 👀 I’m interested in data science and digital marketing
-- 🌱 I’m currently learning SQL
+- 👋 Hi, I’m Amanda
+- 👀 I’m interested in human, environment, and digital world
+- 🌱 I'm currently growing my skills in sustainability and technology
+- 👩‍💻 My expertise includes Paid Social, Paid Search, CRM, Content Marketing, Google Analytics, SQL, Git, and HTML
 
 <!---
 amandakartikasari/amandakartikasari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
