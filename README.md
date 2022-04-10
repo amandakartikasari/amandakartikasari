@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amanda
 - 👀 I’m interested in human, environment, and digital world
-- 🌱 I'm currently growing my skills in sustainability and technology
-- 👩‍💻 My expertise includes Paid Social, Paid Search, CRM, Content Marketing, Google Analytics, SQL, Git, and HTML
+- 🌱 I'm currently learning Data Analytics and Web Development
+- 👩‍💻 My expertise includes Digital Marketing, Innovation and Entrepreneurship
 
 <!---
 amandakartikasari/amandakartikasari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
