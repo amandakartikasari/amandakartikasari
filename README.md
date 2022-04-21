@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amanda
-- 👀 I’m interested in human, environment, and digital world
+- 👀 I’m interested in human behaviour, environment, and technologies
 - 🌱 I'm currently learning Data Analytics and Web Development
 - 👩‍💻 My expertise includes Digital Marketing, Innovation and Entrepreneurship
 
