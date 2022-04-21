@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amanda
 - 👀 I’m interested in human behaviour, environment, and technologies
-- 🌱 I'm a former fashion designer, currently studying MSc Prosperity, Innovation and Entrepreneurship
+- 🌱 I'm a former fashion designer, currently studying MSc Prosperity, Innovation and Entrepreneurship at UCL
 - 👩‍💻 I'm currently learning Data Analytics and Web Development to complement my expertise in Digital Marketing and Strategic Consultancy
 
 <!---
